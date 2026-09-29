@@ -17,7 +17,7 @@ This repository hosts the BlackStar website, a single-page site with:
 
 Everything lives in `index.html`. There is no build step and no dependencies.
 
-Website designed and built by **Padmesh G**, for Team Project BLACKSTAR:
+Website designed and built by **Padmesh G, Samarth R Anegundi, Mohit Musturi**, for Team Project BLACKSTAR:
 Samarth R Anegundi, Mohit Musturi, Padmesh G, Veda Sai Manasa, Gopa Parthiv and Ronak B.
 
 ## Settings
